@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pantb\\documents\\unreal projects\\shooter\\intermediate\\build\\win64\\unrealeditor\\inc\\shooter\\uht\\gun.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pantb\\documents\\unreal projects\\shooter\\intermediate\\build\\win64\\x64\\shootereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\pantb\\documents\\unreal projects\\shooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shooter\\definitions.shooter.h",
+            "c:\\users\\pantb\\documents\\unreal projects\\shooter\\source\\shooter\\gun.h",
+            "c:\\users\\pantb\\documents\\unreal projects\\shooter\\intermediate\\build\\win64\\unrealeditor\\inc\\shooter\\uht\\gun.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

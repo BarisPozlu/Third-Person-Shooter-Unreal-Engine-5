@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pantb\\documents\\unreal projects\\shooter\\source\\shooter\\shooterpawn.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pantb\\documents\\unreal projects\\shooter\\intermediate\\build\\win64\\x64\\shootereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\pantb\\documents\\unreal projects\\shooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shooter\\definitions.shooter.h",
+            "c:\\users\\pantb\\documents\\unreal projects\\shooter\\source\\shooter\\shooterpawn.h",
+            "c:\\users\\pantb\\documents\\unreal projects\\shooter\\intermediate\\build\\win64\\unrealeditor\\inc\\shooter\\uht\\shooterpawn.generated.h",
+            "c:\\users\\pantb\\documents\\unreal projects\\shooter\\source\\shooter\\gun.h",
+            "c:\\users\\pantb\\documents\\unreal projects\\shooter\\intermediate\\build\\win64\\unrealeditor\\inc\\shooter\\uht\\gun.generated.h",
+            "c:\\users\\pantb\\documents\\unreal projects\\shooter\\source\\shooter\\shooterpawngamemode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\pantb\\documents\\unreal projects\\shooter\\intermediate\\build\\win64\\unrealeditor\\inc\\shooter\\uht\\shooterpawngamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

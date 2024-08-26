@@ -1,0 +1,31 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Shooter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\pantb\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\x64\ShooterEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\pantb\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shooter\BTService_ClearDefaultFocus.gen.cpp.obj"
+"C:\Users\pantb\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shooter\BTTask_ClearBlackBoardValue.gen.cpp.obj"
+"C:\Users\pantb\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shooter\BTTask_Shoot.gen.cpp.obj"
+"C:\Users\pantb\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shooter\Gun.gen.cpp.obj"
+"C:\Users\pantb\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shooter\KillAllGameMode.gen.cpp.obj"
+"C:\Users\pantb\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shooter\Shooter.init.gen.cpp.obj"
+"C:\Users\pantb\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shooter\ShooterAIController.gen.cpp.obj"
+"C:\Users\pantb\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shooter\ShooterController.gen.cpp.obj"
+"C:\Users\pantb\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shooter\ShooterPawn.gen.cpp.obj"
+"C:\Users\pantb\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shooter\ShooterPawnGameMode.gen.cpp.obj"
+"C:\Users\pantb\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shooter\BTService_ClearDefaultFocus.cpp.obj"
+"C:\Users\pantb\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shooter\BTTask_ClearBlackBoardValue.cpp.obj"
+"C:\Users\pantb\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shooter\BTTask_Shoot.cpp.obj"
+"C:\Users\pantb\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shooter\Gun.cpp.obj"
+"C:\Users\pantb\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shooter\KillAllGameMode.cpp.obj"
+"C:\Users\pantb\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shooter\Shooter.cpp.obj"
+"C:\Users\pantb\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shooter\ShooterAIController.cpp.obj"
+"C:\Users\pantb\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shooter\ShooterController.cpp.obj"
+"C:\Users\pantb\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shooter\ShooterPawn.cpp.obj"
+"C:\Users\pantb\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shooter\ShooterPawnGameMode.cpp.obj"
+"C:\Users\pantb\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shooter\Default.rc2.res"
+/OUT:"C:\Users\pantb\Documents\Unreal Projects\Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\Shooter\UnrealEditor-Shooter.lib"
