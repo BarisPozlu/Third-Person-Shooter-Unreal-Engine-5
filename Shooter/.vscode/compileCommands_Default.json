@@ -1,0 +1,90 @@
+[
+	{
+		"file": "C:\\Users\\pantb\\Documents\\Unreal Projects\\Shooter\\Source\\Shooter\\Gun.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\pantb\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Default\\Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\pantb\\Documents\\Unreal Projects\\Shooter\\Source\\Shooter\\Gun.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\pantb\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Default\\Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\pantb\\Documents\\Unreal Projects\\Shooter\\Source\\Shooter\\Shooter.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\pantb\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Default\\Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\pantb\\Documents\\Unreal Projects\\Shooter\\Source\\Shooter\\Shooter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\pantb\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Default\\Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\pantb\\Documents\\Unreal Projects\\Shooter\\Source\\Shooter\\Shooter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\pantb\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Default\\Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\pantb\\Documents\\Unreal Projects\\Shooter\\Source\\Shooter\\ShooterAIController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\pantb\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Default\\Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\pantb\\Documents\\Unreal Projects\\Shooter\\Source\\Shooter\\ShooterAIController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\pantb\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Default\\Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\pantb\\Documents\\Unreal Projects\\Shooter\\Source\\Shooter\\ShooterController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\pantb\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Default\\Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\pantb\\Documents\\Unreal Projects\\Shooter\\Source\\Shooter\\ShooterController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\pantb\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Default\\Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\pantb\\Documents\\Unreal Projects\\Shooter\\Source\\Shooter\\ShooterPawn.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\pantb\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Default\\Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\pantb\\Documents\\Unreal Projects\\Shooter\\Source\\Shooter\\ShooterPawn.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\pantb\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Default\\Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	}
+]
